@@ -71,7 +71,7 @@ body {
     border-radius: 50%;
     overflow: hidden;
     margin-top: 5px;
-    box-shadow: 9px 0px 48px -9px rgba(31,41,55,0.54);
+    box-shadow: 9px 0px 30px -9px rgba(31,41,55,0.54);
 }
 
 .profile-photo img {
